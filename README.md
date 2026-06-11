@@ -39,31 +39,31 @@ CC Switch 支持以下 AI Agent 平台：
 
 ```bash
 # 克隆到 Claude skills 目录
-git clone https://github.com/your-username/acc-switch.git ~/.claude/skills/acc-switch
+git clone https://github.com/wsyb/acc-switch-skill.git ~/.claude/skills/acc-switch
 ```
 
 ### Codex
 
 ```bash
-git clone https://github.com/your-username/acc-switch.git ~/.codex/skills/acc-switch
+git clone https://github.com/wsyb/acc-switch-skill.git ~/.codex/skills/acc-switch
 ```
 
 ### Gemini
 
 ```bash
-git clone https://github.com/your-username/acc-switch.git ~/.gemini/skills/acc-switch
+git clone https://github.com/wsyb/acc-switch-skill.git ~/.gemini/skills/acc-switch
 ```
 
 ### OpenCode
 
 ```bash
-git clone https://github.com/your-username/acc-switch.git ~/.opencode/skills/acc-switch
+git clone https://github.com/wsyb/acc-switch-skill.git ~/.opencode/skills/acc-switch
 ```
 
 ### Hermes
 
 ```bash
-git clone https://github.com/your-username/acc-switch.git ~/.hermes/skills/acc-switch
+git clone https://github.com/wsyb/acc-switch-skill.git ~/.hermes/skills/acc-switch
 ```
 
 ### 使用安装脚本
